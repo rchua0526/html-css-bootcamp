@@ -1,0 +1,19 @@
+ ul {
+        color:hotpink;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: lighter;
+        border: 1px solid red;
+        background-image: url(../002_emmet-&-css-selectors/IMG/sfchinatown.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+ }
+
+ img {
+        border: 10px groove orangered;
+        border-bottom-left-radius: 30%;
+ }
+
+ .sampletwo {
+       border: 30px ridge orchid;
+       border-radius: 45%;
+}
