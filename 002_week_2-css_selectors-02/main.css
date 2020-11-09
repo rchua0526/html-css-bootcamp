@@ -1,0 +1,33 @@
+body{
+    font-size: 20px;
+}
+
+li:first-child{
+    color: red;
+}
+
+li:last-child {
+    color: purple;
+}
+
+li:nth-child(even) {
+   background-color: slategray;
+}
+
+ul:nth-child(odd) {
+    background-color: whitesmoke;
+}
+
+li:nth-child(4) {
+    background-color: tomato;
+}
+
+li:only-child {
+    background-color: black;
+    color: violet;
+}
+
+li:nth-child(4n+2) {
+    background-color: brown;
+    color: chartreuse;
+}
